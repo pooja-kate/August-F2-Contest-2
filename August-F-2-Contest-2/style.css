@@ -1,0 +1,53 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+}
+.container{
+    color:white;
+}
+.form-heading{
+    font-weight: 100;
+    text-align: center;
+    margin-top:20px;
+}
+#studentForm{
+    color:white;
+    padding: 40px;
+    text-align: center;
+    margin: 10px;
+    text-align: justify;
+    margin-left: 20%;
+    /* border:2px white; */
+}
+.name-1{
+    /* border:2px white; */
+    padding: 10px;
+    width: 20%;
+    margin: 5px;
+    color:white;
+}
+.add-student{
+    color:white;
+    padding: 10px;
+    width: 30%;
+}
+.search-input{
+    color:white;
+    text-align: justify;
+    width: 50%;
+    padding: 10px;
+}
+#searchButton{
+    color:white;
+    padding: 10px;
+}
+
+.search-bar{
+    text-align: center;
+    color:white;
+}
+.student-list{
+    color: white;
+    text-align: center;
+}
